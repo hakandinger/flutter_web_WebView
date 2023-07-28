@@ -1,0 +1,19 @@
+name: izin
+description: Yeni bir iş günü hesaplayıcı projesi.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^2.0.13
+  cupertino_icons: ^1.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+
